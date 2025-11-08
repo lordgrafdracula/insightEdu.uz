@@ -1,0 +1,2 @@
+# insightEdu.uz
+web site
